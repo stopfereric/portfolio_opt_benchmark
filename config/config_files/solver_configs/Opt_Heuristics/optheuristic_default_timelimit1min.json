@@ -1,0 +1,9 @@
+{
+"solve_method": "Opt_Heuristics",
+"solve_method_config": {"number_of_samples": 10,
+                        "max_calculation_time_exists": true,
+                        "max_calculation_time_in_min": 1,
+                        "heuristic_name": "default"
+                        },
+"solve_method_device": "no device needed"
+}

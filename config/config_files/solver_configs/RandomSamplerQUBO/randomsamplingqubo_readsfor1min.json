@@ -1,0 +1,8 @@
+{
+"solve_method": "RandomSamplerQUBO",
+"solve_method_config": {"number_of_reads": 1,
+                        "max_calculation_time_exists": true,
+                        "max_calculation_time_in_min": 1.0
+                        },
+"solve_method_device": "no device needed"
+}

@@ -1,0 +1,110 @@
+{
+	"problem_options":    {
+                           "MarkowitzPortfolio": {"asset_returns":              {"type": "list"}, 
+                                                  "asset_limits":               {"type": "list"}, 
+                                                  "asset_covariance_matrix":    {"type": "list"}, 
+                                                  "variable_discretization_n":  {"type": "int", "geq": 0}, 
+                                                  "opt_goal":                   {"type": "str", "allowed_values": ["max_return_with_constrained_volatility", "min_volatility_with_constrained_return", "max_return_min_volatility"]}, 
+                                                  "max_volatility":             {"type": "float", "geq": 0, "leq": 10000}, 
+                                                  "min_return":                 {"type": "float", "geq": -100, "leq": 10000},
+                                                  "delta_risk_aversion":        {"type": "float", "geq": 0},
+                                                  "choose_dax_assets":          {"type": "bool"},
+                                                  "dax_assets":                 {"type": "list"}, 
+                                                  "choose_nasdaq_assets":       {"type": "bool"},
+                                                  "nasdaq_assets":              {"type": "list"}, 
+                                                  "random_instance":            {"type": "bool"},
+                                                  "number_of_assets_for_random":{"type": "int", "geq": 2},
+                                                  "stock_market_for_random_instance": {"type": "str", "allowed_values": ["dax", "nasdaq", "nyse", ""]}, 
+                                                  "if_mipsolver_then_solvediscretizedproblem": {"type": "bool"}
+                                                  }
+                           },
+        
+        "problem_mapping_options":  {"choose_penalty_worst_feasible_better_than_best_infeasible": {"type": "bool"}, 
+                                   "qubo_penalty_factor":           {"type": "int", "geq": 0}, 
+                                   "trim_inequalities":             {"type": "bool"}, 
+                                   "max_number_of_slack_vars_per_inequality": {"type": "int", "geq": 1} 
+                                   },
+                 
+        "solve_method_options":  {"MIP_Solver": {  "time_limit":            {"type": "int", "geq": 0}, 
+                                                   "abs_gap":               {"type": "float", "geq": 0}, 
+                                                   "rel_gap":               {"type": "float", "geq": 0}, 
+                                                   "presolve_method":       {"type": "int", "allowed_values": [0, 1, 2, 3]}, 
+                                                   "initial_lp_algorithm":  {"type": "str", "allowed_values": ["s", "p", "d", "b", "c"]}
+                                               },
+                                "QAOA": {"number_of_layers":                {"type": "int", "geq": 1}, 
+                                         "shots_for_sampling":              {"type": "int", "geq": 1}, 
+                                         "optimize_params_classically":     {"type": "bool"}, 
+                                         "opt_method":                      {"type": "str", "allowed_values": ["COBYLA", "Nelder-Mead", "Powell"]}, 
+                                         "shots_for_training":              {"type": "int", "geq": 1}, 
+                                         "training_with_local_simulator":   {"type": "bool"}, 
+                                         "optimize_params_with_grid_search":  {"type": "bool"}, 
+                                         "grid_search_size":                {"type": "int", "geq": 1, "leq": 100}, 
+                                         "sample_with_linearramp_without_training": {"type": "bool"}, 
+                                         "sample_randomly":                 {"type": "bool"}, 
+                                         "postprocess_with_steepest_descent": {"type": "bool"},
+                                         "max_calculation_time_exists":     {"type": "bool"},
+                                         "max_training_time_in_sec":        {"type": "int", "geq": 0},
+                                         "max_sampling_time_in_sec":        {"type": "int", "geq": 0}
+                                         },
+                                "QuantumAnnealer": { "number_of_reads":         {"type": "int", "geq": 1}, 
+                                                     "annealing_time":          {"type": "int", "geq": 1}, 
+                                                     "postprocess_with_steepest_descent": {"type": "bool"},
+                                                     "max_calculation_time_exists":       {"type": "bool"},
+                                                     "max_calculation_time_in_min":       {"type": "float", "geq": 0} 
+                                             },
+                                "QuantumAnnealer_NeutralAtoms": {"number_of_reads":         {"type": "int", "geq": 1}, 
+                                                                 "annealing_time":          {"type": "int", "geq": 1}, 
+                                                                 "unit_disk_MIS":           {"type": "bool"}
+                                             },
+                                "SimulatedAnnealer": {"number_of_reads":         {"type": "int", "geq": 1}, 
+                                                      "annealing_time":          {"type": "int", "geq": 1}, 
+                                                      "calc_initial_states_with_heuristic":{"type": "bool"},  
+                                                      "number_of_initial_states":          {"type": "int", "geq": 1},  
+                                                      "postprocess_with_steepest_descent": {"type": "bool"},
+                                                      "max_calculation_time_exists":       {"type": "bool"},
+                                                      "max_calculation_time_in_min":       {"type": "int", "geq": 0}
+                                             },
+                                "Tabu_Search": {"number_of_reads":      {"type": "int", "geq": 1}, 
+                                                "time_limit":           {"type": "int", "geq": 0},  
+                                                "calc_initial_states_with_heuristic":{"type": "bool"},  
+                                                "number_of_initial_states":          {"type": "int", "geq": 1},
+                                                "postprocess_with_steepest_descent": {"type": "bool"},
+                                                "max_calculation_time_exists":       {"type": "bool"},
+                                                "max_calculation_time_in_min":       {"type": "int", "geq": 0}
+                                                },
+                                "Greedy_Algorithm": {"number_of_reads":      {"type": "int", "geq": 1}, 
+                                                     "time_limit":           {"type": "int", "geq": 0}, 
+                                                     "max_calculation_time_exists":   {"type": "bool"},
+                                                     "max_calculation_time_in_min":   {"type": "int", "geq": 0}
+                                                     },
+                                "Opt_Heuristics": {"number_of_samples":             {"type": "int", "geq": 1},
+                                                   "max_calculation_time_exists":   {"type": "bool"},
+                                                   "max_calculation_time_in_min":   {"type": "int", "geq": 0},
+                                                   "heuristic_name":    {"type": "str", "allowed_values": ["default", "steepestdescent_weightadding", "randomized_weightadding"]}
+                                                   },
+                                "RandomSamplerQUBO": {"number_of_reads":              {"type": "int", "geq": 1}, 
+                                                     "max_calculation_time_exists":   {"type": "bool"},
+                                                     "max_calculation_time_in_min":   {"type": "float", "geq": 0} 
+                                                     }
+                                },
+        
+        "device_options":{"MIP_Solver": ["SCIP", "Gurobi_LocalLicense", "Gurobi_ComputeServer"],
+                          "QAOA": ["Local_Simulator", "MQT_Simulator", "Noisy_Local_Simulator", "IBM_Quantum_Computer"],
+                          "QuantumAnnealer": ["Quantum_Annealer_Dwave"],
+                          "QuantumAnnealer_NeutralAtoms": ["unknown"],
+                          "SimulatedAnnealer": ["Simulated_Annealer_Dwave"],
+                          "Tabu_Search": ["Dwave_TabuSampler"],
+                          "Greedy_Algorithm": ["Dwave_GreedyAlgorithm"],
+                          "Opt_Heuristics": ["no device needed"],
+                          "RandomSamplerQUBO": ["no device needed"]
+                          },
+                          
+        "report_options": { "visualize_distribution_of_obj_values": {"type": "bool"},
+                            "analyse_only_best_sols":               {"type": "bool"},
+                            "number_of_sols_to_be_analysed":        {"type": "int", "geq": 1},
+                            "save_feasible_sols_to_excel":          {"type": "bool"},
+                            "visualize_feasible_solutions":         {"type": "bool"},
+                            "calc_qscore":                          {"type": "bool"},
+                            "varnumber_cutoffpoint_for_lpfile_creation": {"type": "int", "geq": 1}
+                            }
+}

@@ -1,0 +1,10 @@
+{
+"solve_method": "MIP_Solver",
+"solve_method_config": {"time_limit": 3600,
+                        "abs_gap": 0.0,
+                        "rel_gap": 0.05,
+                        "presolve_method": 0,
+                        "initial_lp_algorithm": "s"
+                         },
+"solve_method_device": "SCIP"
+}

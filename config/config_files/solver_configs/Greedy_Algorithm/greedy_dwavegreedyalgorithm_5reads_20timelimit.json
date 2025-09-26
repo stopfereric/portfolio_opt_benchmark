@@ -1,0 +1,9 @@
+{
+"solve_method": "Greedy_Algorithm",
+"solve_method_config": {"time_limit": 20,
+                        "number_of_reads": 5,
+                        "max_calculation_time_exists": false,
+                        "max_calculation_time_in_min": 0
+                         },
+"solve_method_device": "Dwave_GreedyAlgorithm"
+}

@@ -1,0 +1,8 @@
+{
+"solve_method": "QuantumAnnealer_NeutralAtoms",
+"solve_method_config": {"number_of_reads": 100,
+                        "annealing_time": 20,
+                        "unit_disk_MIS": true
+                         },
+"solve_method_device": "unknown"
+}

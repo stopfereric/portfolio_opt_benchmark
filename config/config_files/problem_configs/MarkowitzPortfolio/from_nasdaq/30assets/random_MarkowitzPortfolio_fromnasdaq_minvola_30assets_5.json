@@ -1,0 +1,60 @@
+{
+    "problem_name": "MarkowitzPortfolio",
+    "problem_config": {
+        "asset_returns": [],
+        "asset_limits": [],
+        "asset_covariance_matrix": [
+            []
+        ],
+        "variable_discretization_n": 3,
+        "opt_goal": "min_volatility_with_constrained_return",
+        "max_volatility": 0.6727535249195645,
+        "min_return": 0.04503515062658649,
+        "delta_risk_aversion": 1.0,
+        "choose_dax_assets": false,
+        "dax_assets": [],
+        "choose_nasdaq_assets": true,
+        "nasdaq_assets": [
+            "ADP",
+            "VABK",
+            "EMIF",
+            "KELYB",
+            "CHNR",
+            "NXPL",
+            "PPC",
+            "STNE",
+            "AIOT",
+            "FDTS",
+            "SOWG",
+            "ANSS",
+            "TDIV",
+            "NCSM",
+            "PZZA",
+            "OCCI",
+            "TAIT",
+            "BANX",
+            "KGEI",
+            "FLL",
+            "CRNC",
+            "OMCL",
+            "SVC",
+            "OFIX",
+            "WFCF",
+            "DTIL",
+            "COMT",
+            "NRIM",
+            "WRAP",
+            "JCTC"
+        ],
+        "random_instance": false,
+        "stock_market_for_random_instance": "",
+        "number_of_assets_for_random": 3,
+        "if_mipsolver_then_solvediscretizedproblem": true
+    },
+    "problem_mapping_config": {
+        "choose_penalty_worst_feasible_better_than_best_infeasible": false,
+        "qubo_penalty_factor": 1000,
+        "trim_inequalities": false,
+        "max_number_of_slack_vars_per_inequality": 3
+    }
+}

@@ -1,0 +1,10 @@
+{
+"report_config": {  "visualize_distribution_of_obj_values": true,
+                    "analyse_only_best_sols": false,
+                    "number_of_sols_to_be_analysed": 30,
+                    "save_feasible_sols_to_excel": true,
+                    "visualize_feasible_solutions": true,
+                    "calc_qscore": true,
+                    "varnumber_cutoffpoint_for_lpfile_creation": 50
+                    }
+}

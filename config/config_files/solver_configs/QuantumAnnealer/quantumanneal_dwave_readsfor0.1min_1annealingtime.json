@@ -1,0 +1,10 @@
+{
+"solve_method": "QuantumAnnealer",
+"solve_method_config": {"number_of_reads": 5000,
+                        "annealing_time": 1,
+                        "postprocess_with_steepest_descent": false,
+                        "max_calculation_time_exists": true,
+                        "max_calculation_time_in_min": 0.1
+                         },
+"solve_method_device": "Quantum_Annealer_Dwave"
+}

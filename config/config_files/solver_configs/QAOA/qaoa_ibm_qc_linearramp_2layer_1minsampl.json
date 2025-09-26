@@ -1,0 +1,19 @@
+{
+"solve_method": "QAOA",
+"solve_method_config": {"number_of_layers": 2,
+                        "shots_for_sampling": 1,
+                        "optimize_params_classically": false,
+                        "opt_method": "COBYLA",
+                        "training_with_local_simulator": false,
+                        "shots_for_training": 1,
+                        "optimize_params_with_grid_search": false,
+                        "grid_search_size": 1,
+                        "sample_with_linearramp_without_training": true,
+                        "sample_randomly": false,
+                        "postprocess_with_steepest_descent": false,
+                        "max_calculation_time_exists": true,
+                        "max_training_time_in_sec": 0,
+                        "max_sampling_time_in_sec": 60
+                         },
+"solve_method_device": "IBM_Quantum_Computer"
+}
