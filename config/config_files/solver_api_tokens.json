@@ -1,0 +1,12 @@
+{
+"Dwave_QuantumComputer": "Advantage2_system1.4",
+"Dwave_Token": "input_token",
+
+"IBM_QuantumComputer": "ibm_strasbourg",
+"IBM_Token": "input_token",
+
+"GUROBI_COMPUTE_SERVER_NAME": "cs-server-name",
+"GUROBI_COMPUTE_SERVER_PASS": "input_password",
+"GUROBI_COMPUTE_SERVER_ADMINPASS": "input_password",
+"GUROBI_COMPUTE_SERVER_PRIO": -98
+}

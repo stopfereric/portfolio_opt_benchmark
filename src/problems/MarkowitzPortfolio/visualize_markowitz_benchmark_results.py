@@ -5,7 +5,6 @@ Created on 05.09.2024
 @author: stopfer
 """
 import os
-import json
 import pdb
 import numpy as np
 from matplotlib import pyplot as plt

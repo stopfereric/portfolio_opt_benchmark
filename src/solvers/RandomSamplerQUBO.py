@@ -13,7 +13,7 @@ from config.config import Config
 from src.report import Report
 from src.utils.error_utils import CustomizedError
 from src.utils.qc_utils import calculate_expectation_value_random_sampling_qubo, calc_ising_energy_of_bitstring_array
-from src.utils.solver_result_utils import process_dwave_response, analyse_feasibility_of_solver_solutions, get_all_feasible_solutions, write_kpis_to_report
+from src.utils.solver_result_utils import analyse_feasibility_of_solver_solutions, get_all_feasible_solutions, write_kpis_to_report
 from src.utils.visualisation_utils import create_barplot_obj_values_with_number_of_violated_constraints
 
 

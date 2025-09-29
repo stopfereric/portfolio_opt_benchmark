@@ -8,6 +8,5 @@
 /.pydevproject
 /.spyproject
 
-/config/config_files/solver_api_tokens.json
 /config/config_files/problem_configs/MarkowitzPortfolio/from_dax/*
 /results/*

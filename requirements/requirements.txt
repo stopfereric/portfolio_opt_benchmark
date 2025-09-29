@@ -16,4 +16,4 @@ dwave-tabu
 dwave-greedy
 pyscipopt
 yfinance
-
+dimod

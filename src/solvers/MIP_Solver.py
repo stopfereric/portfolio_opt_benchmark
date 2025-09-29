@@ -6,10 +6,6 @@ Created on 07.03.2024
 """
 import time
 import pdb
-import os
-
-import pyscipopt as scip_opt
-import gurobipy as gp
 
 from config.config import Config
 from src.report import Report

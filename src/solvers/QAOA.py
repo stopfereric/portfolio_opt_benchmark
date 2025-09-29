@@ -20,7 +20,7 @@ from qiskit.transpiler import generate_preset_pass_manager
 from qiskit_aer import AerSimulator # Basic Quantum Simulator
 # from mqt.ddsim import DDSIMProvider # other Quantum Simulator from the Munich Quantum Toolkit
 from qiskit_aer.noise import NoiseModel # for Noisy Quantum Simulation
-from qiskit_ibm_runtime import QiskitRuntimeService, Session, SamplerV2 as Sampler # for real Quantum device
+from qiskit_ibm_runtime import QiskitRuntimeService, SamplerV2 as Sampler # for real Quantum device
 from scipy.optimize import minimize
 
 from config.config import Config

@@ -7,7 +7,6 @@ Created on 07.03.2024
 import time
 import pdb
 import os
-import math
 import numpy as np
 
 from qiskit_optimization import QuadraticProgram
