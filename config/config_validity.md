@@ -24,6 +24,8 @@ contains all the possible problem applications and the attributes that are neces
 | stock_market_for_random_instance | str | the allowed stock markets that the random assets are taken from, right now allowed: ["dax", "nasdaq", "nyse", ""] |
 | if_mipsolver_then_solvediscretizedproblem | bool | if true, then if mipsolve is chosen as solve_method it's solving the discretized optimization-problem |
 
+
+
 ## 2. problem_mapping_options
 | attribute_name | type | description |
 | ------------- | ----- | --------------------------|
@@ -73,6 +75,13 @@ contains all the possible solver options and its specific configurations
 | postprocess_with_steepest_descent | bool | if True: a steepest descent method (->one-bitflip) is executed at the end of the optimization method to potentially improve results |
 | max_calculation_time_exists | bool | if True, the solver must obey to a certain time limit |
 | max_calculation_time_in_min | float | if max_calculation_time_exists=True, this is the timelimit in minutes that the solver has to obey to |
+
+### QuantumAnnealer_NeutralAtoms
+| attribute_name | type | description |
+| ------------- | ----- | --------------------------|
+| number_of_reads | int | how many times it should be annealed |
+| annealing_time | int | Total running time per read in milliseconds |
+| unit_disk_MIS | bool | if True, the problem will be transformed to a unit-disk-maximum-independent-set-Problem (->UD-MIS) |
 
 ### SimulatedAnnealer
 | attribute_name | type | description |

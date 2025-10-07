@@ -1,10 +1,9 @@
 {
 "solve_method": "SimulatedAnnealer",
-"solve_method_config": {"number_of_reads": 100000,
-                        "annealing_time": 20,
+"solve_method_config": {"number_of_reads": 5,
                         "calc_initial_states_with_heuristic": false,
                         "number_of_initial_states": 1,
-                        "postprocess_with_steepest_descent": false,
+                        "postprocess_with_steepest_descent": true,
                         "max_calculation_time_exists": false,
                         "max_calculation_time_in_min": 0
                          },

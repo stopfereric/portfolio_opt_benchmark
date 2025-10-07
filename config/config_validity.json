@@ -1,5 +1,6 @@
 {
 	"problem_options":    {
+		
                            "MarkowitzPortfolio": {"asset_returns":              {"type": "list"}, 
                                                   "asset_limits":               {"type": "list"}, 
                                                   "asset_covariance_matrix":    {"type": "list"}, 
@@ -17,6 +18,8 @@
                                                   "stock_market_for_random_instance": {"type": "str", "allowed_values": ["dax", "nasdaq", "nyse", ""]}, 
                                                   "if_mipsolver_then_solvediscretizedproblem": {"type": "bool"}
                                                   }
+                           
+						   
                            },
         
         "problem_mapping_options":  {"choose_penalty_worst_feasible_better_than_best_infeasible": {"type": "bool"}, 
@@ -46,18 +49,15 @@
                                          "max_training_time_in_sec":        {"type": "int", "geq": 0},
                                          "max_sampling_time_in_sec":        {"type": "int", "geq": 0}
                                          },
-                                "QuantumAnnealer": { "number_of_reads":         {"type": "int", "geq": 1}, 
-                                                     "annealing_time":          {"type": "int", "geq": 1}, 
+                                "QuantumAnnealer": { "number_of_reads":                   {"type": "int", "geq": 1}, 
+                                                     "annealing_time":                    {"type": "int", "geq": 1}, 
+                                                     "use_custom_chain_strength":         {"type": "bool"},
+                                                     "chain_strength":                    {"type": "float", "geq": 0},
                                                      "postprocess_with_steepest_descent": {"type": "bool"},
                                                      "max_calculation_time_exists":       {"type": "bool"},
                                                      "max_calculation_time_in_min":       {"type": "float", "geq": 0} 
                                              },
-                                "QuantumAnnealer_NeutralAtoms": {"number_of_reads":         {"type": "int", "geq": 1}, 
-                                                                 "annealing_time":          {"type": "int", "geq": 1}, 
-                                                                 "unit_disk_MIS":           {"type": "bool"}
-                                             },
-                                "SimulatedAnnealer": {"number_of_reads":         {"type": "int", "geq": 1}, 
-                                                      "annealing_time":          {"type": "int", "geq": 1}, 
+                                "SimulatedAnnealer": {"number_of_reads":                   {"type": "int", "geq": 1}, 
                                                       "calc_initial_states_with_heuristic":{"type": "bool"},  
                                                       "number_of_initial_states":          {"type": "int", "geq": 1},  
                                                       "postprocess_with_steepest_descent": {"type": "bool"},
@@ -73,7 +73,6 @@
                                                 "max_calculation_time_in_min":       {"type": "int", "geq": 0}
                                                 },
                                 "Greedy_Algorithm": {"number_of_reads":      {"type": "int", "geq": 1}, 
-                                                     "time_limit":           {"type": "int", "geq": 0}, 
                                                      "max_calculation_time_exists":   {"type": "bool"},
                                                      "max_calculation_time_in_min":   {"type": "int", "geq": 0}
                                                      },
@@ -91,7 +90,6 @@
         "device_options":{"MIP_Solver": ["SCIP", "Gurobi_LocalLicense", "Gurobi_ComputeServer"],
                           "QAOA": ["Local_Simulator", "MQT_Simulator", "Noisy_Local_Simulator", "IBM_Quantum_Computer"],
                           "QuantumAnnealer": ["Quantum_Annealer_Dwave"],
-                          "QuantumAnnealer_NeutralAtoms": ["unknown"],
                           "SimulatedAnnealer": ["Simulated_Annealer_Dwave"],
                           "Tabu_Search": ["Dwave_TabuSampler"],
                           "Greedy_Algorithm": ["Dwave_GreedyAlgorithm"],

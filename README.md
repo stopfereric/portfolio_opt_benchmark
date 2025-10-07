@@ -55,7 +55,7 @@ To do that, you have to specify the problem-solver-report combinations for the w
 For some exemplary benchmark-config-files, you can look into the folder **/config/config_files/benchmark_configs/**. 
 The specified problem-, solver- and report-configs in the benchmark_config.json have to exist in the folders **/config/config_files/problem_configs/** and **/config/config_files/solver_configs/**.
 
-Then you can execute the benchmark run by running the code in **/src/run_multiple_benchmarks.py**.
+Then you can execute the benchmark run by running the code in **/src/run_multiple_optimizations.py**.
 
 Report-folders for each run will be created just like in the single optimization runs in **/results/xxxxx/**.
 

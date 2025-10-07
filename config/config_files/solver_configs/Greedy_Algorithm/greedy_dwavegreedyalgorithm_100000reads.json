@@ -1,7 +1,6 @@
 {
 "solve_method": "Greedy_Algorithm",
-"solve_method_config": {"time_limit": 20,
-                        "number_of_reads": 1000,
+"solve_method_config": {"number_of_reads": 100000,
                         "max_calculation_time_exists": false,
                         "max_calculation_time_in_min": 0
                          },

@@ -1,7 +1,12 @@
 [
     [
-        "random_MarkowitzPortfolio_fromnasdaq_minvola_10assets_0.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "random_MarkowitzPortfolio_fromnasdaq_minvola_20assets_0.json",
+        "randomsamplingqubo_readsfor1min.json",
+        "report_only_the_best_sols.json"
+    ],
+    [
+        "random_MarkowitzPortfolio_fromnasdaq_minvola_20assets_0.json",
+        "optheuristic_default_timelimit1min.json",
         "report_only_the_best_sols.json"
     ]
 ]

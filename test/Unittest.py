@@ -8,7 +8,7 @@ import unittest
 import os
 import time
 
-from src.run_multiple_benchmarks import execute_benchmark_run
+from src.run_multiple_optimizations import execute_benchmark_run
 
 
 class Unittest(unittest.TestCase):

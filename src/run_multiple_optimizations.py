@@ -25,7 +25,6 @@ from src.utils.config_file_utils import find_config_files, add_paths_to_config_f
 from src.utils.import_utils import create_class_instances
 from src.utils.qc_utils import create_ibm_session
 from src.utils.grbcluster_utils import abort_existing_grbcluster_jobs
-from src.utils.resultfolder_utils import rename_files_for_computational_study
 from src.problems.MarkowitzPortfolio.visualize_markowitz_benchmark_results import visualize_markowitz_benchmark_results
  
 
@@ -729,121 +728,18 @@ if __name__ == "__main__":
         os.path.dirname(os.path.dirname(__file__)),
         "config", "config_files", "benchmark_config.json"
         )
-    do_benchmark_run = True
-    analyse_ibm_job_results = False
-    analyse_existing_results = False
-    calculate_qscore_afterwards = False
-    existing_results_path_ibm_results = ''
-    existing_results_path = ''
-    
-    # existing_results_path_ibm_results = r"C:\Users\stopfer\Documents\quopt\results\benchmarkrun_2025_07_03_18_12_10"  
-    # do_benchmark_run = False
-    # analyse_ibm_job_results = True
-    
-    existing_results_path = 'benchmarkrun_portfolioopt_heuristics_new'    
-    do_benchmark_run = False
-    analyse_existing_results = True
-    quantum_anneal_dict = {
-        'identifier_for_graphics': 'annealing',
-        'min_problem_size_for_graphics': 5,
-        'max_problem_size_for_graphics': 25,
-        'solving_methods': { 
-            'optheuristic_default_timelimit1min.json':                          "Problem-specific heuristic",
-            'randomsamplingqubo_readsfor1min.json':                             "Random sampling 60s",
-            'randomsamplingqubo_330000reads.json':                              "Random sampling 330,000 samples",
-            ('quantumanneal_dwave_readsfor1min_20annealingtime.json',
-            'quantumanneal_dwave_readsfor1min_20annealingtime_defaultcs.json'):   r"QA $\tau$=20µs, default cs", 
-            ('quantumanneal_dwave_readsfor1min_50annealingtime.json',
-            'quantumanneal_dwave_readsfor1min_50annealingtime_defaultcs.json'):   r"QA $\tau$=50µs, default cs",
-            ('quantumanneal_dwave_readsfor1min_20annealingtime_3cs.json', 
-             'quantumanneal_dwave_readsfor1min_20annealingtime_4cs.json', 
-             'quantumanneal_dwave_readsfor1min_20annealingtime_5cs.json'):        r"QA $\tau$=20µs, adjusted cs",  
-            ('quantumanneal_dwave_readsfor1min_50annealingtime_3cs.json',
-             'quantumanneal_dwave_readsfor1min_50annealingtime_4cs.json',
-             'quantumanneal_dwave_readsfor1min_50annealingtime_5cs.json'):        r"QA $\tau$=50µs, adjusted cs", 
-            }
-        }
-    qaoa_dict = {
-        'identifier_for_graphics': 'qaoa',
-        'min_problem_size_for_graphics': 7,
-        'max_problem_size_for_graphics': 30,
-        'solving_methods': { 
-            'optheuristic_default_timelimit1min.json':              "Problem-specific heuristic",
-            'randomsamplingqubo_readsfor1min.json':                 "Random sampling 60s",
-            'randomsamplingqubo_100000reads.json':                  "Random sampling 100,000 samples",
-            'qaoa_ibm_qc_gridsearch_30sectrain_30secsampl.json':    "QAOA p=1, grid search",
-            'qaoa_ibm_qc_linearramp_1layer_1minsampl.json':         "QAOA p=1, linear ramp",
-            'qaoa_ibm_qc_linearramp_3layer_1minsampl.json':         "QAOA p=3, linear ramp",
-            'qaoa_ibm_qc_linearramp_5layer_1minsampl.json':         "QAOA p=5, linear ramp",
-            }
-        }
-    heuristics_dict = {
-        'identifier_for_graphics': 'heuristics',
-        'min_problem_size_for_graphics': 5,
-        'max_problem_size_for_graphics': 800,
-        'solving_methods': { 
-            'optheuristic_default_timelimit1min.json':          "Problem-specific heuristic",
-            'randomsamplingqubo_readsfor1min.json':             "Random sampling 60s",         
-            'greedy_dwavegreedyalgorithm_readsfor1min':         "Steepest descent",             
-            'simulatedanneal_dwave_readsfor1min':               "Simulated annealing",       
-            'tabusearch_dwavetabusampler_readsfor1min_20timelimit.json': "Tabu search",
-            }
-        }
-    best_method_dict = {
-        'identifier_for_graphics': 'bestmethod',
-        'min_problem_size_for_graphics': 7,
-        'max_problem_size_for_graphics': 25,
-        'solving_methods': { 
-            'optheuristic_default_timelimit1min.json':                      "Problem-specific heuristic",
-            'randomsamplingqubo_readsfor1min.json':                         "Random sampling 60s",
-            ('quantumanneal_dwave_readsfor1min_50annealingtime_3cs.json',
-             'quantumanneal_dwave_readsfor1min_50annealingtime_4cs.json',
-             'quantumanneal_dwave_readsfor1min_50annealingtime_5cs.json'): r"QA $\tau$=50µs, adjusted cs", 
-            'qaoa_ibm_qc_linearramp_1layer_1minsampl.json':                 "QAOA p=1, linear ramp",
-            }
-        }
-    visualisation_config_dicts = [
-        # quantum_anneal_dict, 
-        # qaoa_dict, 
-        heuristics_dict, 
-        best_method_dict]
-    
-    
-    
-    if do_benchmark_run:
-        ES_CONTINUOUS = 0x80000000
-        ES_SYSTEM_REQUIRED = 0x00000001
-        ctypes.windll.kernel32.SetThreadExecutionState(ES_CONTINUOUS | ES_SYSTEM_REQUIRED)
-        execute_benchmark_run(
-            config_file_path = config_file_path,
-            # parallel_calculation = True,
-            # number_of_processors_for_parallel = 4 #os.cpu_count() - 3  # cpu-count of my laptop: 12
-            parallel_calculation = False,
-            calculate_qscore_afterwards = False,
-            existing_folder_name = existing_results_path
-            )
-        ctypes.windll.kernel32.SetThreadExecutionState(ES_CONTINUOUS)
-    
-    if analyse_ibm_job_results:
-        benchmark = Benchmark(config_file_path)
-        benchmark.create_benchmark_export_folder(folder_name = os.path.basename(existing_results_path_ibm_results) + "_ibm_analysis")
-        benchmark.analyse_ibm_job_results(existing_results_path_ibm_results)
-        benchmark.calc_optimality_kpis()
-        if calculate_qscore_afterwards == True:
-            benchmark.calc_qscore(samplesize_random=1000)
-        benchmark.analyse_benchmark_opt_run_results()
-    
-    if analyse_existing_results:
-        for method_config in visualisation_config_dicts:
-            benchmark = Benchmark(config_file_path, method_config)
-            benchmark.create_benchmark_export_folder(existing_results_path)
-            benchmark.calc_optimality_kpis()
-            if calculate_qscore_afterwards == True:
-                benchmark.calc_qscore(samplesize_random=1000)
-            benchmark.analyse_benchmark_opt_run_results()
-            rename_files_for_computational_study(path = benchmark.BENCHMARK_EXPORT_PATH,
-                                                 method_config = method_config)
-    
-    
-    
+
+    ES_CONTINUOUS = 0x80000000
+    ES_SYSTEM_REQUIRED = 0x00000001
+    ctypes.windll.kernel32.SetThreadExecutionState(ES_CONTINUOUS | ES_SYSTEM_REQUIRED)
+    execute_benchmark_run(
+        config_file_path = config_file_path,
+        # parallel_calculation = True,
+        # number_of_processors_for_parallel = 4 #os.cpu_count() - 3  # cpu-count of my laptop: 12
+        parallel_calculation = False,
+        existing_folder_name = '',
+        calculate_qscore_afterwards = False
+        )
+    ctypes.windll.kernel32.SetThreadExecutionState(ES_CONTINUOUS)
+
     

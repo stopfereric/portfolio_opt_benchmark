@@ -6,12 +6,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_3assets_0.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_3assets_0.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -31,12 +31,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_3assets_1.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_3assets_1.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -56,12 +56,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_3assets_2.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_3assets_2.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -81,12 +81,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_3assets_3.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_3assets_3.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -106,12 +106,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_3assets_4.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_3assets_4.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -131,12 +131,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_3assets_5.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_3assets_5.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -156,12 +156,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_3assets_6.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_3assets_6.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -181,12 +181,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_3assets_7.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_3assets_7.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -206,12 +206,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_3assets_8.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_3assets_8.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -231,12 +231,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_3assets_9.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_3assets_9.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -256,12 +256,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_5assets_0.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_5assets_0.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -281,12 +281,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_5assets_1.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_5assets_1.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -306,12 +306,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_5assets_2.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_5assets_2.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -331,12 +331,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_5assets_3.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_5assets_3.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -356,12 +356,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_5assets_4.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_5assets_4.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -381,12 +381,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_5assets_5.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_5assets_5.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -406,12 +406,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_5assets_6.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_5assets_6.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -431,12 +431,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_5assets_7.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_5assets_7.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -456,12 +456,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_5assets_8.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_5assets_8.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -481,12 +481,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_5assets_9.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_5assets_9.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -506,12 +506,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_7assets_0.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_7assets_0.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -531,12 +531,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_7assets_1.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_7assets_1.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -556,12 +556,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_7assets_2.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_7assets_2.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -581,12 +581,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_7assets_3.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_7assets_3.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -606,12 +606,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_7assets_4.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_7assets_4.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -631,12 +631,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_7assets_5.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_7assets_5.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -656,12 +656,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_7assets_6.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_7assets_6.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -681,12 +681,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_7assets_7.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_7assets_7.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -706,12 +706,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_7assets_8.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_7assets_8.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -731,12 +731,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_7assets_9.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_7assets_9.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -756,12 +756,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_10assets_0.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_10assets_0.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -781,12 +781,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_10assets_1.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_10assets_1.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -806,12 +806,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_10assets_2.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_10assets_2.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -831,12 +831,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_10assets_3.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_10assets_3.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -856,12 +856,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_10assets_4.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_10assets_4.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -881,12 +881,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_10assets_5.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_10assets_5.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -906,12 +906,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_10assets_6.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_10assets_6.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -931,12 +931,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_10assets_7.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_10assets_7.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -956,12 +956,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_10assets_8.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_10assets_8.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -981,12 +981,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_10assets_9.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_10assets_9.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -1006,12 +1006,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_20assets_0.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_20assets_0.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -1031,12 +1031,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_20assets_1.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_20assets_1.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -1056,12 +1056,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_20assets_2.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_20assets_2.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -1081,12 +1081,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_20assets_3.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_20assets_3.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -1106,12 +1106,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_20assets_4.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_20assets_4.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -1131,12 +1131,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_20assets_5.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_20assets_5.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -1156,12 +1156,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_20assets_6.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_20assets_6.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -1181,12 +1181,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_20assets_7.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_20assets_7.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -1206,12 +1206,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_20assets_8.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_20assets_8.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -1231,12 +1231,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_20assets_9.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_20assets_9.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -1256,12 +1256,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_30assets_0.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_30assets_0.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -1281,12 +1281,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_30assets_1.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_30assets_1.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -1306,12 +1306,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_30assets_2.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_30assets_2.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -1331,12 +1331,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_30assets_3.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_30assets_3.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -1356,12 +1356,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_30assets_4.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_30assets_4.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -1381,12 +1381,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_30assets_5.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_30assets_5.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -1406,12 +1406,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_30assets_6.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_30assets_6.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -1431,12 +1431,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_30assets_7.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_30assets_7.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -1456,12 +1456,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_30assets_8.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_30assets_8.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -1481,12 +1481,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_30assets_9.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_30assets_9.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -1506,12 +1506,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_40assets_0.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_40assets_0.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -1531,12 +1531,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_40assets_1.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_40assets_1.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -1556,12 +1556,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_40assets_2.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_40assets_2.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -1581,12 +1581,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_40assets_3.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_40assets_3.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -1606,12 +1606,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_40assets_4.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_40assets_4.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -1631,12 +1631,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_40assets_5.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_40assets_5.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -1656,12 +1656,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_40assets_6.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_40assets_6.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -1681,12 +1681,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_40assets_7.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_40assets_7.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -1706,12 +1706,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_40assets_8.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_40assets_8.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -1731,12 +1731,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_40assets_9.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_40assets_9.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -1756,12 +1756,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_50assets_0.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_50assets_0.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -1781,12 +1781,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_50assets_1.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_50assets_1.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -1806,12 +1806,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_50assets_2.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_50assets_2.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -1831,12 +1831,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_50assets_3.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_50assets_3.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -1856,12 +1856,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_50assets_4.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_50assets_4.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -1881,12 +1881,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_50assets_5.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_50assets_5.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -1906,12 +1906,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_50assets_6.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_50assets_6.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -1931,12 +1931,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_50assets_7.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_50assets_7.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -1956,12 +1956,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_50assets_8.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_50assets_8.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -1981,12 +1981,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_50assets_9.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_50assets_9.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -2006,12 +2006,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_60assets_0.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_60assets_0.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -2031,12 +2031,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_60assets_1.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_60assets_1.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -2056,12 +2056,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_60assets_2.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_60assets_2.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -2081,12 +2081,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_60assets_3.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_60assets_3.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -2106,12 +2106,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_60assets_4.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_60assets_4.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -2131,12 +2131,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_60assets_5.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_60assets_5.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -2156,12 +2156,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_60assets_6.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_60assets_6.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -2181,12 +2181,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_60assets_7.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_60assets_7.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -2206,12 +2206,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_60assets_8.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_60assets_8.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -2231,12 +2231,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_60assets_9.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_60assets_9.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -2256,12 +2256,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_70assets_0.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_70assets_0.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -2281,12 +2281,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_70assets_1.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_70assets_1.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -2306,12 +2306,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_70assets_2.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_70assets_2.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -2331,12 +2331,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_70assets_3.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_70assets_3.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -2356,12 +2356,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_70assets_4.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_70assets_4.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -2381,12 +2381,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_70assets_5.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_70assets_5.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -2406,12 +2406,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_70assets_6.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_70assets_6.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -2431,12 +2431,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_70assets_7.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_70assets_7.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -2456,12 +2456,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_70assets_8.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_70assets_8.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -2481,12 +2481,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_70assets_9.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_70assets_9.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -2506,12 +2506,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_80assets_0.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_80assets_0.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -2531,12 +2531,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_80assets_1.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_80assets_1.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -2556,12 +2556,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_80assets_2.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_80assets_2.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -2581,12 +2581,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_80assets_3.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_80assets_3.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -2606,12 +2606,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_80assets_4.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_80assets_4.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -2631,12 +2631,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_80assets_5.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_80assets_5.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -2656,12 +2656,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_80assets_6.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_80assets_6.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -2681,12 +2681,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_80assets_7.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_80assets_7.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -2706,12 +2706,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_80assets_8.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_80assets_8.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -2731,12 +2731,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_80assets_9.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_80assets_9.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -2756,12 +2756,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_90assets_0.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_90assets_0.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -2781,12 +2781,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_90assets_1.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_90assets_1.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -2806,12 +2806,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_90assets_2.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_90assets_2.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -2831,12 +2831,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_90assets_3.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_90assets_3.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -2856,12 +2856,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_90assets_4.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_90assets_4.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -2881,12 +2881,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_90assets_5.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_90assets_5.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -2906,12 +2906,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_90assets_6.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_90assets_6.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -2931,12 +2931,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_90assets_7.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_90assets_7.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -2956,12 +2956,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_90assets_8.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_90assets_8.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -2981,12 +2981,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_90assets_9.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_90assets_9.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -3006,12 +3006,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_100assets_0.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_100assets_0.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -3031,12 +3031,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_100assets_1.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_100assets_1.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -3056,12 +3056,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_100assets_2.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_100assets_2.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -3081,12 +3081,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_100assets_3.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_100assets_3.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -3106,12 +3106,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_100assets_4.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_100assets_4.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -3131,12 +3131,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_100assets_5.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_100assets_5.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -3156,12 +3156,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_100assets_6.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_100assets_6.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -3181,12 +3181,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_100assets_7.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_100assets_7.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -3206,12 +3206,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_100assets_8.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_100assets_8.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -3231,12 +3231,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_100assets_9.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_100assets_9.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -3256,12 +3256,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_150assets_0.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_150assets_0.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -3281,12 +3281,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_150assets_1.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_150assets_1.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -3306,12 +3306,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_150assets_2.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_150assets_2.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -3331,12 +3331,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_150assets_3.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_150assets_3.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -3356,12 +3356,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_150assets_4.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_150assets_4.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -3381,12 +3381,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_150assets_5.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_150assets_5.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -3406,12 +3406,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_150assets_6.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_150assets_6.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -3431,12 +3431,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_150assets_7.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_150assets_7.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -3456,12 +3456,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_150assets_8.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_150assets_8.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -3481,12 +3481,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_150assets_9.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_150assets_9.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -3506,12 +3506,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_200assets_0.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_200assets_0.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -3531,12 +3531,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_200assets_1.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_200assets_1.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -3556,12 +3556,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_200assets_2.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_200assets_2.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -3581,12 +3581,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_200assets_3.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_200assets_3.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -3606,12 +3606,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_200assets_4.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_200assets_4.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -3631,12 +3631,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_200assets_5.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_200assets_5.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -3656,12 +3656,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_200assets_6.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_200assets_6.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -3681,12 +3681,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_200assets_7.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_200assets_7.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -3706,12 +3706,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_200assets_8.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_200assets_8.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -3731,12 +3731,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_200assets_9.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_200assets_9.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -3756,12 +3756,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_250assets_0.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_250assets_0.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -3781,12 +3781,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_250assets_1.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_250assets_1.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -3806,12 +3806,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_250assets_2.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_250assets_2.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -3831,12 +3831,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_250assets_3.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_250assets_3.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -3856,12 +3856,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_250assets_4.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_250assets_4.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -3881,12 +3881,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_250assets_5.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_250assets_5.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -3906,12 +3906,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_250assets_6.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_250assets_6.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -3931,12 +3931,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_250assets_7.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_250assets_7.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -3956,12 +3956,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_250assets_8.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_250assets_8.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -3981,12 +3981,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_250assets_9.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_250assets_9.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -4006,12 +4006,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_300assets_0.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_300assets_0.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -4031,12 +4031,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_300assets_1.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_300assets_1.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -4056,12 +4056,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_300assets_2.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_300assets_2.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -4081,12 +4081,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_300assets_3.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_300assets_3.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -4106,12 +4106,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_300assets_4.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_300assets_4.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -4131,12 +4131,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_300assets_5.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_300assets_5.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -4156,12 +4156,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_300assets_6.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_300assets_6.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -4181,12 +4181,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_300assets_7.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_300assets_7.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -4206,12 +4206,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_300assets_8.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_300assets_8.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -4231,12 +4231,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_300assets_9.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_300assets_9.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -4256,12 +4256,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_400assets_0.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_400assets_0.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -4281,12 +4281,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_400assets_1.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_400assets_1.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -4306,12 +4306,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_400assets_2.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_400assets_2.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -4331,12 +4331,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_400assets_3.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_400assets_3.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -4356,12 +4356,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_400assets_4.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_400assets_4.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -4381,12 +4381,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_400assets_5.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_400assets_5.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -4406,12 +4406,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_400assets_6.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_400assets_6.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -4431,12 +4431,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_400assets_7.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_400assets_7.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -4456,12 +4456,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_400assets_8.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_400assets_8.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -4481,12 +4481,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_400assets_9.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_400assets_9.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -4506,12 +4506,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_500assets_0.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_500assets_0.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -4531,12 +4531,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_500assets_1.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_500assets_1.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -4556,12 +4556,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_500assets_2.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_500assets_2.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -4581,12 +4581,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_500assets_3.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_500assets_3.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -4606,12 +4606,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_500assets_4.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_500assets_4.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -4631,12 +4631,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_500assets_5.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_500assets_5.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -4656,12 +4656,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_500assets_6.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_500assets_6.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -4681,12 +4681,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_500assets_7.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_500assets_7.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -4706,12 +4706,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_500assets_8.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_500assets_8.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -4731,12 +4731,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_500assets_9.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_500assets_9.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -4756,12 +4756,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_600assets_0.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_600assets_0.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -4781,12 +4781,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_600assets_1.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_600assets_1.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -4806,12 +4806,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_600assets_2.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_600assets_2.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -4831,12 +4831,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_600assets_3.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_600assets_3.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -4856,12 +4856,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_600assets_4.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_600assets_4.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -4881,12 +4881,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_600assets_5.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_600assets_5.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -4906,12 +4906,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_600assets_6.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_600assets_6.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -4931,12 +4931,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_600assets_7.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_600assets_7.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -4956,12 +4956,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_600assets_8.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_600assets_8.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -4981,12 +4981,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_600assets_9.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_600assets_9.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -5006,12 +5006,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_700assets_0.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_700assets_0.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -5031,12 +5031,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_700assets_1.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_700assets_1.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -5056,12 +5056,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_700assets_2.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_700assets_2.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -5081,12 +5081,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_700assets_3.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_700assets_3.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -5106,12 +5106,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_700assets_4.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_700assets_4.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -5131,12 +5131,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_700assets_5.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_700assets_5.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -5156,12 +5156,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_700assets_6.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_700assets_6.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -5181,12 +5181,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_700assets_7.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_700assets_7.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -5206,12 +5206,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_700assets_8.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_700assets_8.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -5231,12 +5231,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_700assets_9.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_700assets_9.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -5256,12 +5256,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_800assets_0.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_800assets_0.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -5281,12 +5281,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_800assets_1.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_800assets_1.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -5306,12 +5306,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_800assets_2.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_800assets_2.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -5331,12 +5331,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_800assets_3.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_800assets_3.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -5356,12 +5356,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_800assets_4.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_800assets_4.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -5381,12 +5381,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_800assets_5.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_800assets_5.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -5406,12 +5406,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_800assets_6.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_800assets_6.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -5431,12 +5431,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_800assets_7.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_800assets_7.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -5456,12 +5456,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_800assets_8.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_800assets_8.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -5481,12 +5481,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_800assets_9.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_800assets_9.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -5506,12 +5506,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_900assets_0.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_900assets_0.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -5531,12 +5531,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_900assets_1.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_900assets_1.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -5556,12 +5556,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_900assets_2.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_900assets_2.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -5581,12 +5581,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_900assets_3.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_900assets_3.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -5606,12 +5606,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_900assets_4.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_900assets_4.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -5631,12 +5631,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_900assets_5.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_900assets_5.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -5656,12 +5656,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_900assets_6.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_900assets_6.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -5681,12 +5681,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_900assets_7.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_900assets_7.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -5706,12 +5706,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_900assets_8.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_900assets_8.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -5731,12 +5731,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_900assets_9.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_900assets_9.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -5756,12 +5756,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_1000assets_0.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_1000assets_0.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -5781,12 +5781,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_1000assets_1.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_1000assets_1.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -5806,12 +5806,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_1000assets_2.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_1000assets_2.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -5831,12 +5831,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_1000assets_3.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_1000assets_3.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -5856,12 +5856,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_1000assets_4.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_1000assets_4.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -5881,12 +5881,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_1000assets_5.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_1000assets_5.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -5906,12 +5906,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_1000assets_6.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_1000assets_6.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -5931,12 +5931,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_1000assets_7.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_1000assets_7.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -5956,12 +5956,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_1000assets_8.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_1000assets_8.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
@@ -5981,12 +5981,12 @@
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_1000assets_9.json",
-        "greedy_dwavegreedyalgorithm_readsfor1min_20timelimit.json",
+        "greedy_dwavegreedyalgorithm_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [
         "random_MarkowitzPortfolio_fromnasdaq_minvola_1000assets_9.json",
-        "simulatedanneal_dwave_readsfor1min_20annealingtime.json",
+        "simulatedanneal_dwave_readsfor1min.json",
         "report_only_the_best_sols.json"
     ],
     [

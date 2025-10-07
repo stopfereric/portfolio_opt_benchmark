@@ -1,0 +1,32 @@
+default:
+  tags:
+    - asprunner
+
+include:
+  - project: iis-scs-a/project-independent/dev-and-workflow-tools/python-license-checker-ci
+    file: pipelines/python/licensecheck.yml
+
+stages:
+  - test
+  - postprocess
+
+# This job parses the license file from the dependency scanning job
+# and replaces known licenses from our internal license db
+update sbom:
+  image: registry.gitlab-ee.fraunhofer.de/iis-scs-a/license-db:latest
+  stage: postprocess
+  script:
+    - cd /app && uv run src/main.py $CI_PROJECT_DIR/requirements/gl-sbom-pypi-pip.cdx.json db/license_db.csv $CI_PROJECT_DIR/requirements/gl-sbom-pypi-pip.cdx.json
+  artifacts:
+    access: developer
+    paths:
+      - "**/gl-sbom-*.cdx.json"
+    reports:
+      cyclonedx:
+        - "**/gl-sbom-*.cdx.json"
+  rules:
+    - if: $CI_PIPELINE_SOURCE == 'merge_request_event'
+    - if: $CI_COMMIT_TAG
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+    - if: $CI_COMMIT_BRANCH == 'dev'
+ 

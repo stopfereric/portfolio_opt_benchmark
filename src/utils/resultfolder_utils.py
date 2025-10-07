@@ -154,6 +154,14 @@ def create_ibm_jobids_file_from_dir(directory, search_str="Job-ID: "):
         
 
 def rename_files_for_computational_study(path, method_config):
+    #initialise variables
+    approximation_ratio_file_org_path = ""
+    approximation_ratio_file_dst_path = ""
+    number_of_samples_file_org_path = ""
+    number_of_samples_file_dst_path = ""
+    feasibility_perc_file_org_path = ""
+    feasibility_perc_file_dst_path = ""
+
     #get the origin and destination paths
     for f in os.listdir(path):
         if "approximation ratio.png" in f:
@@ -175,9 +183,12 @@ def rename_files_for_computational_study(path, method_config):
         os.remove(feasibility_perc_file_dst_path)
         
     #rename the result files
-    os.rename(src = approximation_ratio_file_org_path, dst = approximation_ratio_file_dst_path)
-    os.rename(src = number_of_samples_file_org_path, dst = number_of_samples_file_dst_path)
-    os.rename(src = feasibility_perc_file_org_path, dst = feasibility_perc_file_dst_path)  
+    if approximation_ratio_file_org_path != "":
+        os.rename(src = approximation_ratio_file_org_path, dst = approximation_ratio_file_dst_path)
+    if number_of_samples_file_org_path != "":
+        os.rename(src = number_of_samples_file_org_path, dst = number_of_samples_file_dst_path)
+    if feasibility_perc_file_org_path != "":
+        os.rename(src = feasibility_perc_file_org_path, dst = feasibility_perc_file_dst_path)
 
 
 if __name__ == "__main__":
