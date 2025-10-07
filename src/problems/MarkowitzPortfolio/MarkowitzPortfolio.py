@@ -4,7 +4,6 @@ Created on 07.03.2024
 
 @author: Eric Stopfer
 """
-import logging
 import pdb
 import os
 import time
@@ -13,11 +12,10 @@ import json
 import math
 import copy
 import numpy as np
-import networkx as nx
 import pandas as pd
 import dataclasses
 
-from gurobipy import Model, GRB, LinExpr, QuadExpr
+from gurobipy import Model
 from qiskit_optimization import QuadraticProgram
 from qiskit_optimization.translators import from_gurobipy
 from qiskit_optimization.converters import InequalityToEquality, IntegerToBinary
@@ -27,9 +25,8 @@ from config.config import Config
 from src.report import Report
 from src.utils.error_utils import CustomizedError
 from src.utils.qc_utils import transform_gurobipy_model_to_qubo, transform_qubo_to_ising
-from src.utils.opt_utils import Opt_Model, solve_opt_model_with_SCIP
+from src.utils.opt_utils import Opt_Model
 from src.utils.visualisation_utils import draw_return_vs_volatility
-from src.solvers.QuantumAnnealer_NeutralAtoms import QuantumAnnealer_NeutralAtoms as QA_NA
 
 
 class MarkowitzPortfolio:
@@ -236,8 +233,6 @@ class MarkowitzPortfolio:
             self.problem_mapping = self.map_problem_to_mip(config)
         elif solve_method in ["QuantumAnnealer", "SimulatedAnnealer", "Tabu_Search", "Greedy_Algorithm", "Opt_Heuristics"]:
             self.problem_mapping = self.map_problem_to_qubo(config)
-        elif solve_method in ["QuantumAnnealer_NeutralAtoms"]:
-            self.problem_mapping = self.map_problem_to_mis(config, report)
         elif solve_method in ["QAOA", "RandomSamplerQUBO"]:
             self.problem_mapping = self.map_problem_to_ising(config)
         else:
@@ -270,7 +265,7 @@ class MarkowitzPortfolio:
                 self.markowitz_mip_discretized.write_model(path=config.EXPORT_PATH, filename="MarkowitzPortfolio_MIP_of_discretized_problem.lp")
             return self.markowitz_mip_discretized
             
-        elif config.solve_method in ["QAOA", "QuantumAnnealer", "QuantumAnnealer_NeutralAtoms", "SimulatedAnnealer", "Tabu_Search", "Greedy_Algorithm", "Opt_Heuristics", "RandomSamplerQUBO"]:
+        elif config.solve_method in ["QAOA", "QuantumAnnealer", "SimulatedAnnealer", "Tabu_Search", "Greedy_Algorithm", "Opt_Heuristics", "RandomSamplerQUBO"]:
             self.markowitz_mip_for_qubo = self.create_discretized_markowitz_problem(model_type=model_type, config=config)
             num_vars = self.markowitz_mip_for_qubo.get_number_of_variables()
             if num_vars <= config.report_config['varnumber_cutoffpoint_for_lpfile_creation']:
@@ -634,29 +629,7 @@ class MarkowitzPortfolio:
         config.logger.info("Transformed the QUBO formulation successfully to an Ising formulation")
     
         return qubo_dict, qubo, mip, ising_matrix, ising_vector, ising_offset
-    
-    
-    def map_problem_to_mis(self, config: Config, report: Report) -> nx.Graph:
-        ''' 
-        function that maps the problem instance to a weighted-maximum-indepentent-set-formulation (->W-MIS).
-        For more information about MIS, see https://en.wikipedia.org/wiki/Maximal_independent_set .
-        The problem instance consists of asset_returns, asset_limits, asset_cov_matrix, risk_tolerance.
-        Returns a networkx graph whose W-MIS corresponds to the optimal QUBO solution.
-        '''
-        # %% generate the QUBO with binary variables in {0; 1}
-        qubo_dict, _, _ = self.map_problem_to_qubo(config)
-        
-        # %% transform the QUBO to an equivalent MIS-problem
-        if config.solve_method_config["unit_disk_MIS"] == True:
-            mis_graph = QA_NA.QUBO_to_UDG_WMIS_graph(qubo_dict, config, report) #unit-disk-graph-weighted-independent-set-problem
-        else:
-            mis_graph = QA_NA.QUBO_to_WMIS_graph(qubo_dict, config, report) #weighted-independent-set-problem
-        
-        mis_mip = QA_NA.WMIS_graph_to_MIP(mis_graph)
-        solution_dict = QA_NA.solve_WMIS_MIP_with_SCIP(mis_mip, config, report)
-        result = QA_NA.postprocess_mis_result(solution_dict)
-        pdb.set_trace()
-        return mis_graph
+
     
     
     def postprocess_solver_result(self, 

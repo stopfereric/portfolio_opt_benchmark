@@ -11,7 +11,7 @@ import time
 from src.run_multiple_optimizations import execute_benchmark_run
 
 
-class Unittest(unittest.TestCase):
+class Unittest:
     def __init__(self):
         """
         unittesting function that tests some features of the code
@@ -51,7 +51,7 @@ class Unittest(unittest.TestCase):
         """
         a = 4
         b = 4
-        self.assertEqual(a, b)
+        assert a==b
         
 
 
