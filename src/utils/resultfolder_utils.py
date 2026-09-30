@@ -190,6 +190,43 @@ def rename_files_for_computational_study(path, method_config):
     if feasibility_perc_file_org_path != "":
         os.rename(src = feasibility_perc_file_org_path, dst = feasibility_perc_file_dst_path)
 
+def check_optret_equal_minret(root_dir):
+    results = {}
+
+    for entry in os.listdir(root_dir):
+        subdir_path = os.path.join(root_dir, entry)
+
+        if not os.path.isdir(subdir_path):
+            continue
+
+        solution_dict_path = os.path.join(subdir_path, "solution_dict.json")
+        report_path = os.path.join(subdir_path, "report.json")
+        problemsolverreport_path = os.path.join(subdir_path, "problemsolverreport_combination.json")
+
+        if not os.path.exists(solution_dict_path) or not os.path.exists(report_path) or not os.path.exists(problemsolverreport_path):
+            raise Exception(f"error in results getting for {entry}")
+
+        with open(solution_dict_path, "r", encoding="utf-8") as f:
+            solution_dict = json.load(f)
+
+        with open(problemsolverreport_path, "r", encoding="utf-8") as f:
+            problemsolverreport = json.load(f)
+            problem_path = problemsolverreport[0]
+            problem_path_split = problem_path.split("\\")
+            problem_combo = (problem_path_split[-2], problem_path_split[-1])
+
+        with open(report_path, "r", encoding="utf-8") as f:
+            report = json.load(f)
+        if  report["problem_config"]["opt_goal"]== "min_volatility_with_constrained_return" and report["solve_method_config"]["rel_gap"]==0:
+            optret = next(iter(solution_dict.values()))["expected_return"]
+            minret = report["problem_config"]["min_return"]
+            if abs(optret - minret) < 1e-6:
+                results[problem_combo] = True
+            else:
+                results[problem_combo] = abs(optret-minret)
+        else:
+            continue
+
 
 if __name__ == "__main__":
     a=0
@@ -302,6 +339,11 @@ if __name__ == "__main__":
     #     root_dir = r"C:\Users\stopfer\Documents\git\quopt\results\benchmarkrun_portfolioopt_heuristics_new",
     #     search_str = 'randomsamplingqubo_10000reads.json',
     #     search_str_in = 'solver')
-    
-    
+
+    # optret_equal_minret_dict = check_optret_equal_minret(
+    #     root_dir=r"C:\Users\stopfer\Documents\git\quopt\results\benchmarkrun_portfolioopt_gurobi")
+    # not_equals = {key: val for key, val in optret_equal_minret_dict.items() if val != True}
+    # print(not_equals)
+    # print("true_percentage: " + str(1 - len(not_equals) / len(optret_equal_minret_dict)))
+
     

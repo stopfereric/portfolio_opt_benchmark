@@ -68,8 +68,26 @@ best_method_dict = {
         'qaoa_ibm_qc_linearramp_1layer_1minsampl.json': "QAOA p=1, linear ramp",
     }
 }
+sim_qaoa_dict = {
+    'identifier_for_graphics': 'sim_qaoa',
+    'min_problem_size_for_graphics': 3,
+    'max_problem_size_for_graphics': 8,
+    'solving_methods': {
+        'optheuristic_default_timelimit1min.json': "Problem-specific heuristic",
+        'randomsamplingqubo_readsfor1min.json': "Random sampling 60s",
+        'qaoa_localsimulator_cobyla_1layer':       "QAOA LocalSim, p=1 cobyla",
+        'qaoa_localsimulator_cobyla_2layer':     "QAOA LocalSim, p=2 cobyla",
+        'qaoa_localsimulator_cobyla_3layer':       "QAOA LocalSim, p=3 cobyla",
+        'qaoa_localsimulator_gridsearch':          "QAOA LocalSim, p=1, grid search",
+        'qaoa_localsimulator_linearramp_1layer_1minsampl.json':   "QAOA LocalSim, p=1, linear ramp",
+        'qaoa_localsimulator_linearramp_2layer_1minsampl.json':   "QAOA LocalSim, p=2, linear ramp",
+        'qaoa_localsimulator_linearramp_3layer_1minsampl.json':   "QAOA LocalSim, p=3, linear ramp",
+
+    }
+}
 visualisation_config_dicts = [
     quantum_anneal_dict,
+    sim_qaoa_dict,
     qaoa_dict,
     heuristics_dict,
     best_method_dict]
@@ -90,7 +108,7 @@ if __name__ == "__main__":
         existing_results_path = os.path.join(
             os.path.dirname(os.path.dirname(__file__)),
             "results",
-            "benchmarkrun_2025_10_07_11_44_43"
+            "benchmarkrun_portfolioopt_heuristics_new"
             )
         assert os.path.exists(existing_results_path), f"results path '{existing_results_path}' does not exist. You must specify in the code."
 

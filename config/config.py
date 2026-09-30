@@ -41,6 +41,13 @@ class Config:
         function that creates default config, loads a problem and a solver config file 
         if it exists and checks for the validity of the configuration
         """
+        self.problem_name = None
+        self.problem_mapping_config = None
+        self.problem_config = None
+        self.solve_method = None
+        self.solve_method_config = None
+        self.solve_method_device = None
+        self.report_config = None
         self.__create_default_config__(benchmark_export_folder_path)
         self.__load_configfile_config__(problem_config_file_path)
         self.__load_configfile_config__(solver_config_file_path)

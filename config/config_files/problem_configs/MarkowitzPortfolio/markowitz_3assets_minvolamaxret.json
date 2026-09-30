@@ -40,7 +40,7 @@
         "random_instance": false,
         "stock_market_for_random_instance": "",
         "number_of_assets_for_random": 3,
-        "if_mipsolver_then_solvediscretizedproblem": true
+        "if_mipsolver_then_solvediscretizedproblem": false
     },
     "problem_mapping_config": {
         "choose_penalty_worst_feasible_better_than_best_infeasible": false,

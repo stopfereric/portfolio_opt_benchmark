@@ -5,7 +5,6 @@ Created on Thu Aug 15 14:16:58 2024
 @author: stopfer
 """
 import os
-import pdb
 import json
 import random
 import numpy as np
@@ -38,7 +37,6 @@ def create_random_markowitz_problem_config_files(number_of_new_files: int,
     
     for _ in range(number_of_new_files):
         for asset_number in number_of_assets:
-            asset_number = 500
             # %% take some random assets from the stock market
             current_file_directory = os.path.dirname(os.path.abspath(__file__))
             asset_returns_df = pd.read_csv(os.path.join(current_file_directory, f'{stock_market}_annual_returns.csv'), delimiter='\t')
@@ -69,10 +67,6 @@ def create_random_markowitz_problem_config_files(number_of_new_files: int,
                 markowitz_config_data['problem_config']['max_volatility'] = 1.0 # irrelevant
                 avg_abs_magnitude_vola = np.mean([calc_volatility(get_random_portfolio(len(chosen_assets)), asset_covariances) for i in range(100)])
                 avg_abs_magnitude_return = np.mean([calc_return(get_random_portfolio(len(chosen_assets)), asset_returns) for i in range(100)])
-                # aavola=[calc_volatility(get_random_portfolio(len(chosen_assets)), asset_covariances) for i in range(100)]
-                # aaret=[calc_return(get_random_portfolio(len(chosen_assets)), asset_returns) for i in range(100)]
-                # pdb.set_trace()
-                fraction_ret_vola = avg_abs_magnitude_return / avg_abs_magnitude_vola
                 markowitz_config_data['problem_config']['delta_risk_aversion'] = avg_abs_magnitude_return / avg_abs_magnitude_vola
             else:
                 raise Exception(f"unknown opt_goal {opt_goal}")
