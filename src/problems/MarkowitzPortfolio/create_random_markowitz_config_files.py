@@ -42,6 +42,7 @@ def create_random_markowitz_problem_config_files(number_of_new_files: int,
             asset_returns_df = pd.read_csv(os.path.join(current_file_directory, f'{stock_market}_annual_returns.csv'), delimiter='\t')
             covariance_matrix_df = pd.read_csv(os.path.join(current_file_directory, f'{stock_market}_annualized_covariance_matrix.csv'), delimiter='\t')
             all_asset_names = asset_returns_df.columns.to_list()
+            random.seed(33)
             chosen_assets = random.sample(all_asset_names, min(len(all_asset_names), asset_number))
             asset_returns = asset_returns_df[chosen_assets]
             asset_covariances = covariance_matrix_df.loc[chosen_assets, chosen_assets]
